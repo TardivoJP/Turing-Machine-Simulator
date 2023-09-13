@@ -1,0 +1,14 @@
+//Primeiro exemplo dos slides a elevado a n, b elevado a n, ou seja, mesma quantidade
+6
+a,b
+A,B
+<
+>
+0
+aabb
+F,1AR,X,0AR,3BR,X,X
+F,1aR,2BL,X,1BR,X,X
+F,2aL,X,2AL,2BL,0<R,X
+F,X,X,X,3BR,X,4>L
+F,X,X,4AL,4BL,5<R,X
+T,X,X,X,X,X,X
